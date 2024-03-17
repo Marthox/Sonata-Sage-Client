@@ -1,0 +1,10 @@
+{
+    "general": {},
+    "pentagram_hero": {
+        "name": "Pentagram Hero",
+        "description": "You remember guitar hero? Well, this is the same, but with a pentagram and a bright future in music reading"
+    },
+    "homepage.title": "Hello, World!",
+    "homepage.welcome": "Hi <strong>{{name}}</strong>, how are you?",
+    "homepage.time": "The current time is: {{time}}"
+}
